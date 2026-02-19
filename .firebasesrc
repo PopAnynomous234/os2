@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chat-283f4"
+  },
+  "targets": {
+    "chat-283f4": {
+      "hosting": {
+        "main": [
+          "chat-283f4"
+        ]
+      }
+    }
+  }
+}
